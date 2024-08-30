@@ -1,0 +1,6 @@
+x data:
+GN
+y data:
+ao ap,ar as,at au
+interpolation:
+2
